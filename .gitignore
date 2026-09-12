@@ -1,0 +1,5 @@
+.vs/
+**/.vs/
+**/Debug/
+**/Release/
+*.componentinfo.xml
